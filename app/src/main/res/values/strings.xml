@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Simple Math</string>
+    <string name="edit_text1">Enter Your First Value</string>
+    <string name="edit_text2">Enter Your Second Value</string>
+    <string name="sum_button_icon">+</string>
+    <string name="sub_button_icon">-</string>
+    <string name="mul_button_icon">X</string>
+    <string name="div_button_icon">/</string>
+</resources>
